@@ -9,15 +9,19 @@ Welcome to the EDA Projects repository! This repo contains various Exploratory D
 Each project is contained in its own folder with a detailed README describing the dataset, analysis steps, and conclusions.
 
 - **Customer Segmentation**
+  
    Clustering and exploratory analysis of customer data to identify segments and understand behavior.
 
 - **Iris EDA**
+  
   Analysis of the classic Iris dataset, exploring flower measurements and species distributions.
 
 - **Sales Trend Analysis**
+  
   Time series analysis of sales data to identify trends, seasonality, and key insights.
  
 - **Titanic Survival Prediction**
+  
    EDA of Titanic dataset to explore features influencing passenger survival using visual and statistical analysis.
   
 ---
