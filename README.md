@@ -25,7 +25,7 @@ Each project is contained in its own folder with a detailed README describing th
 ## Repository Structure
 
  
-- `eda-projects/`
+- `EDA-Projects/`
   - `Customer Segmentation/`
     - `Customer Segmentation.ipynb` – Sales analysis notebook
     - `customers_data.csv` – Dataset file
