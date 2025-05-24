@@ -76,7 +76,5 @@ This project provides a comprehensive exploratory data analysis (EDA) of a synth
 - Seaborn & Matplotlib
 - Jupyter Notebook
 
----
 
-## Folder Structure
 
