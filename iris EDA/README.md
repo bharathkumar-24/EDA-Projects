@@ -1,4 +1,4 @@
-# Iris Dataset Exploratory Data Analysis (EDA)
+# Iris Dataset - Exploratory Data Analysis (EDA)
 
 ## Overview
 
