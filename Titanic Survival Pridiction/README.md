@@ -107,11 +107,23 @@ The Titanic dataset contains 891 samples with the following key features:
 
 ---
 
-## Conclusions
+### Key Insights
 
-- Gender and passenger class are strong predictors of survival.
-- Age, fare, and family size also influence survival, with complex patterns.
-- Missing data in `Age` and `Cabin` must be addressed before modeling.
+- **Gender:**  
+  Female passengers had a significantly higher survival rate than males. This reflects the "women and children first" evacuation protocol during the sinking.
+
+- **Passenger Class (Pclass):**  
+  Passengers in 1st class showed a much higher likelihood of survival compared to those in 2nd and 3rd class, indicating that socioeconomic status impacted access to lifeboats.
+
+- **Age:**  
+  passengers with age bwtween 20 and 35  had better survival chances .
+
+- **Fare:**  
+  Higher fare prices were associated with increased survival probability, likely due to the correlation between fare, passenger class, and better access to safety.
+
+- **Family Relationships:**  
+  Traveling with family (siblings/spouses or parents/children) influenced survival odds, highlighting the role of social connections during the evacuation.
+
 
 ---
 
