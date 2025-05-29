@@ -68,7 +68,7 @@ The dataset contains anonymized information about customers. The key features in
 
 - Apply unsupervised learning algorithms (e.g., KMeans, DBSCAN) to cluster customers.
 - Identify customer personas to enhance targeted marketing campaigns.
-- Include more demographic or behavioral features if available (e.g., gender, region, frequency of visits).
+- Include more demographic or behavioral features if available (e.g., gender, region, frequency of visits)
 
 ---
 
