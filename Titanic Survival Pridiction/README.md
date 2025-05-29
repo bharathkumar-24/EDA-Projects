@@ -147,7 +147,7 @@ The Titanic dataset contains 891 samples with the following key features:
 
 ##  Files
 
-- `titanic_data.csv` — raw dataset  
-- `Titanic Survival Pridiction.ipynb` — EDA notebook (with visualizations & conclusions)  
-- `README.md` — this file
+- `titanic_data.csv` — raw dataset.  
+- `Titanic Survival Pridiction.ipynb` — EDA notebook (with visualizations & conclusions).  
+- `README.md` — this file.
 
