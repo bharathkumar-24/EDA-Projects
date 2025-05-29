@@ -79,9 +79,9 @@ This project provides a comprehensive exploratory data analysis (EDA) of a synth
 ---
 ##  Files
 
-- `sales_data.csv` — raw dataset  
-- `Sales Trend Analysis.ipynb` — EDA notebook (with visualizations & conclusions)  
-- `README.md` — this file
+- `sales_data.csv` — raw dataset.
+- `Sales Trend Analysis.ipynb` — EDA notebook (with visualizations & conclusions).
+- `README.md` — this file.
 
 
 
