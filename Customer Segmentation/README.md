@@ -84,7 +84,7 @@ The dataset contains anonymized information about customers. The key features in
 
 - `customers_data.csv` — raw dataset.
 - `Customer Segmentation.ipynb` — EDA notebook (with visualizations & conclusions).
-- `README.md` — this file.
+- `README.md` — this file
 
 
 
