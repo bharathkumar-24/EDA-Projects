@@ -82,6 +82,6 @@ An additional column, `variety`, indicates the species of each sample.
 
 - `iris_data.csv` — raw dataset.
 - `iris EDA.ipynb` — EDA notebook (with visualizations & conclusions). 
-- `README.md` — this file
+- `README.md` — this file.
 
 
