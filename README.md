@@ -26,7 +26,7 @@ Each project is contained in its own folder with a detailed README describing th
   
 - **Customers Retention Analysis**
   
-   .
+   Analysis on the customers of leaving or staying business based on the differenct factors like reviewes.
   
 ---
 
