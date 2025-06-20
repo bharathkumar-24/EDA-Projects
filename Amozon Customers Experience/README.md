@@ -73,14 +73,9 @@ Some sample conclusions from the analysis:
 
 ## Sample Visualizations
 
-Here’s an example of a grouped boxplot showing the relationship between product views and time spent group, split by retention:
-
-![Multivariate Example](images/time_spent_vs_views_boxplot.png)
-
-Additional visuals include:
+Visuals include:
 - Heatmaps
 - Pair plots
-- 3D scatter plots
 - Violin plots
 
 ---
