@@ -31,7 +31,7 @@ Each project is contained in its own folder with a detailed README describing th
  
 - `EDA-Projects/`
   - `Customer Segmentation/`
-    - `Customer Segmentation.ipynb` – Sales analysis notebook
+    - `Customer Segmentation.ipynb` – customers segmentataion notebook
     - `customers_data.csv` – Dataset file
     - `README.md` – Project-specific readme
   - `iris EDA/`
@@ -43,8 +43,12 @@ Each project is contained in its own folder with a detailed README describing th
     - `sales_data.csv` – Dataset file
     - `README.md` – Project-specific readme
   - `Titanic Survial Pridiction /`
-    - `Titanic Survival Pridiction.ipynb` – Sales analysis notebook
+    - `Titanic Survival Pridiction.ipynb` – Titanic survial analysis notebook
     - `titanic_data.csv` – Dataset file
+    - `README.md` – Project-specific readme
+  - `Amozon Customers Experience /`
+    - `Customers Retention Analysis.ipynb` – Customers retention analysis notebook
+    - `customer_experience_data.csv` – Dataset file
     - `README.md` – Project-specific readme
   - `README.md` – Main repository readme
 
