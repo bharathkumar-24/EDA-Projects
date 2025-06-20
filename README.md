@@ -10,7 +10,7 @@ Each project is contained in its own folder with a detailed README describing th
 
 - **Customer Segmentation**
   
-   Clustering and exploratory analysis of customer data to identify segments and understand behavior.
+   Exploratory analysis of customer data to identify and understand  customers behavior.
 
 - **Iris EDA**
   
@@ -18,11 +18,15 @@ Each project is contained in its own folder with a detailed README describing th
 
 - **Sales Trend Analysis**
   
-  Time series analysis of sales data to identify trends, seasonality, and key insights.
+  Analysis of sales data to identify trends, seasonality, and key insights.
  
 - **Titanic Survival Prediction**
   
    EDA of Titanic dataset to explore features influencing passenger survival using visual and statistical analysis.
+  
+- **Customers Retention Analysis**
+  
+   .
   
 ---
 
