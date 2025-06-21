@@ -74,7 +74,7 @@ An additional column, `variety`, indicates the species of each sample.
 - Python
 - Pandas
 - Seaborn & Matplotlib
-- Jupyter Notebook
+- Jupyter Notebook.
 
 ---
 
