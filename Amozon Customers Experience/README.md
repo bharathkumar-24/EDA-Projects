@@ -98,4 +98,10 @@ Built using Python and key data libraries:
 - `matplotlib`, `seaborn` – Visualizations
 - `scikit-learn` – For future machine learning modeling.
 
+  ## Files
+
+- `customers_experience_data.csv` — raw dataset.
+- `Customer Retention Analysis.ipynb` — EDA notebook (with visualizations & conclusions).
+- `README.md` — this file.
+
 
