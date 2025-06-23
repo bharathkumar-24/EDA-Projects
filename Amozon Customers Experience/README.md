@@ -95,7 +95,7 @@ We created new features to enhance insight:
 Built using Python and key data libraries:
 
 - `pandas`, `numpy` – Data manipulation
-- `matplotlib`, `seaborn` – Visualizations
+- `matplotlib`, `seaborn` – Visualizations.
 - `scikit-learn` – For future machine learning modeling
 
   ## Files
