@@ -77,7 +77,7 @@ The dataset contains anonymized information about customers. The key features in
 - Python
 - Pandas
 - Seaborn & Matplotlib
-- Jupyter Notebook
+- Jupyter Notebook.
 
 ---
 ## Files
