@@ -141,7 +141,7 @@ The Titanic dataset contains 891 samples with the following key features:
 - Python
 - Pandas
 - Seaborn & Matplotlib
-- Jupyter Notebook
+- Jupyter Notebook.
 
 ---
 
