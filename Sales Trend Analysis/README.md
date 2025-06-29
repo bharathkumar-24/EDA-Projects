@@ -74,7 +74,7 @@ This project provides a comprehensive exploratory data analysis (EDA) of a synth
 - Python
 - Pandas
 - Seaborn & Matplotlib
-- Jupyter Notebook.
+- Jupyter Notebook
 
 ---
 ##  Files
