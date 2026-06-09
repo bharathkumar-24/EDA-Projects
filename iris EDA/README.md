@@ -84,4 +84,10 @@ An additional column, `variety`, indicates the species of each sample.
 - `iris EDA.ipynb` — EDA notebook (with visualizations & conclusions). 
 - `README.md` — this file.
 
+## 👤 Author
+
+**Bharath Kumar Nallabothula Boya**  
+AI/ML Engineer | Technical Trainer  
+📍 Hyderabad, India  
+🔗 [GitHub: bharathkumar-24](https://github.com/bharathkumar-24)
 
