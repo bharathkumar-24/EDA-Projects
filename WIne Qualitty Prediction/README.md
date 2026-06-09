@@ -42,7 +42,7 @@ Given a set of chemical properties of red wine (acidity, sulphates, alcohol cont
 ## 🔬 Project Workflow
 
 ```
-Raw CSV → Data Cleaning → EDA → Feature Engineering → Model Training → Evaluation
+Raw CSV → Data Cleaning → EDA → Feature Engineering
 ```
 
 ### 1. Data Cleaning
@@ -79,14 +79,6 @@ Raw CSV → Data Cleaning → EDA → Feature Engineering → Model Training →
 | **Feature Scaling** | MinMaxScaler | Normalisation (required for KNN distance calculations) |
 | **Target Encoding** | LabelEncoder | `high → 1`, `low → 0` |
 
-### 4. Model — K-Nearest Neighbours (KNN)
-
-- **K Selection:** Cross-validated accuracy across k = 1 to 36 (6-fold CV)
-- **Best K:** Automatically selected as the peak CV accuracy value
-- **Final Model Config:** `KNeighborsClassifier(n_neighbors=best_k, algorithm='kd_tree', weights='distance')`
-- **Train/Test Split:** 80 / 20
-
----
 
 ## 🛠️ Tech Stack
 
@@ -98,8 +90,6 @@ Raw CSV → Data Cleaning → EDA → Feature Engineering → Model Training →
 | `scipy.stats` | Statistical tests (Anderson-Darling, Q-Q plots) |
 | `sklearn.preprocessing` | LabelEncoder, MinMaxScaler |
 | `sklearn.feature_selection` | SelectKBest, f_classif |
-| `sklearn.neighbors` | KNeighborsClassifier |
-| `sklearn.model_selection` | train_test_split, cross_val_score |
 
 ---
 
