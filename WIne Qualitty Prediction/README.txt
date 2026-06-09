@@ -152,8 +152,4 @@ AI/ML Engineer | Technical Trainer
 📍 Hyderabad, India  
 🔗 [GitHub: bharathkumar-24](https://github.com/bharathkumar-24)
 
----
 
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
